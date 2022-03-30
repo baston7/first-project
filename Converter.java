@@ -1,2 +1,2 @@
-Public class nota{
+Public class notsaa{
 }
